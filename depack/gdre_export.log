@@ -1,0 +1,339 @@
+GDRE Tools v0.6.2
+Debian GNU/Linux 12 (bookworm) 12, AMD Radeon RX 6950 XT (navi21, LLVM 15.0.6, DRM 3.49, 6.1.0-21-amd64), opengl3
+Extracted 1550 files, no errors detected!
+USER WARNING: Converting lossy imports, you may lose fidelity for indicated assets when re-importing upon loading the project
+   at: _export_imports (modules/gdsdecomp/utility/import_exporter.cpp:58)
+Script version 3.3.4 (rev 0x5565f55) detected
+Saved project config project.godot.
+USER WARNING: Export of obj meshes currently unimplemented
+   at: _export_imports (modules/gdsdecomp/utility/import_exporter.cpp:191)
+USER WARNING: Conversion for Resource of type Mesh and format obj not implemented
+   at: report_unsupported_resource (modules/gdsdecomp/utility/import_exporter.cpp:1052)
+Did not convert Mesh resource res://.import/angry_brows.obj-28f0c753df689efda8dd49196b56c16c.mesh
+Did not convert Mesh resource res://.import/beanie.obj-b594ebd2f7aeb3ed71e7d992a6ea6170.mesh
+Did not convert Mesh resource res://.import/canon.obj-a4f541ba7c1ff98315cb5ed0421fcd1b.mesh
+Did not convert Mesh resource res://.import/colored_cap_hat.obj-0813f7fed98fd63aa457e8aef5c564ec.mesh
+Did not convert Mesh resource res://.import/cool_cap_hat.obj-7cf6cd3aa116bfa7895e5352a4a9b58d.mesh
+Did not convert Mesh resource res://.import/disguise_mask.obj-842b5c84c095590eeb1ccf6f3a9d0c75.mesh
+Did not convert Mesh resource res://.import/engineering_goggles.obj-0b1fd309ea6b2d500177acf32e698431.mesh
+Did not convert Mesh resource res://.import/eye_hat.obj-785eb71e6cee42db5421c24148ebc023.mesh
+Did not convert Mesh resource res://.import/fedora.obj-fd932a107bfeab820c0dba69b28324d2.mesh
+Did not convert Mesh resource res://.import/fez_hat.obj-4a40b21e46caa8e572c025c569f8beb5.mesh
+Did not convert Mesh resource res://.import/frog_hat.obj-684b43fc888090dc831b1ed144d2a0d3.mesh
+Did not convert Mesh resource res://.import/goat_horns.obj-e0d3e457ab674c12abd05eba7f086b31.mesh
+Did not convert Mesh resource res://.import/halo.obj-27e208786dca1c6657ae3ecbe74991fd.mesh
+Did not convert Mesh resource res://.import/heart_bobbers.obj-5902e6790cf6bc88414fdceeb1d1f2a5.mesh
+Did not convert Mesh resource res://.import/knight_helmet.obj-1f717e80598f87d73c28b005b4eea17e.mesh
+Did not convert Mesh resource res://.import/mohawk.obj-83d692d536c4807a56f972ed6a129675.mesh
+Did not convert Mesh resource res://.import/pirate_hat.obj-271b18aecf591008cd201b0f2a677551.mesh
+Did not convert Mesh resource res://.import/plague_mask.obj-4fc5e735ddb3c27085f9cb99f618a515.mesh
+Did not convert Mesh resource res://.import/plague_mask_and_hat.obj-b82ce720429f2df7ff028366f6f668e4.mesh
+Did not convert Mesh resource res://.import/rhino_horn.obj-7af972aeb5a50e3cfec0a995bf085949.mesh
+Did not convert Mesh resource res://.import/safari_hat.obj-d5c99d5b96009aa7681962599371b4a3.mesh
+Did not convert Mesh resource res://.import/scuba_hat.obj-fbcef1aa1418903de4e550cb7afbb7d1.mesh
+Did not convert Mesh resource res://.import/spiky_horns.obj-13fbeb39cfbda6bfa686e571ef990d1d.mesh
+Did not convert Mesh resource res://.import/sunglasses.obj-0763d2d94cd7215aad3c7914ddc663bd.mesh
+Did not convert Mesh resource res://.import/top_hat.obj-a40145faaf83525f41b6e7e27a74250c.mesh
+Did not convert Mesh resource res://.import/viking_hat.obj-253c6f324d2d1074c190ba299b48061d.mesh
+Did not convert Mesh resource res://.import/winter_hat.obj-dcd428a8a90fe18389d645ec68387a11.mesh
+USER WARNING: Export of models/imported scenes currently unimplemented
+   at: _export_imports (modules/gdsdecomp/utility/import_exporter.cpp:181)
+USER WARNING: Conversion for Resource of type PackedScene and format glb not implemented
+   at: report_unsupported_resource (modules/gdsdecomp/utility/import_exporter.cpp:1052)
+Did not convert PackedScene resource res://.import/grass_spot_1.glb-cd0b7bd1b406aabf7030bfbae08c4368.scn
+Did not convert PackedScene resource res://.import/grass_spot_2.glb-5cb26de0654780097fb17fcbfe048768.scn
+Did not convert PackedScene resource res://.import/grass_spot_3.glb-df2cca7b11acc3cacc7619343eb6a630.scn
+Did not convert PackedScene resource res://.import/grass_spot_4.glb-877b805099c811a947647c625a6f007a.scn
+Did not convert PackedScene resource res://.import/grass_spot_test.glb-9f48206673c78dceeaa75b72c476e416.scn
+Did not convert PackedScene resource res://.import/highland_map_ground.glb-0c6d94595702684953ac890624757c5b.scn
+Did not convert PackedScene resource res://.import/highland_rock_1.glb-81a5a425aac79dfe4bcea3d6de12b619.scn
+Did not convert PackedScene resource res://.import/highland_rock_2.glb-d06f5300844267b8949d4856cf2da747.scn
+Did not convert PackedScene resource res://.import/highland_rock_3.glb-19a3803c52f9541ac0a4b56bef719101.scn
+Did not convert PackedScene resource res://.import/highland_rock_4.glb-485fcbc7098d86d11abd2bbcf7835e3c.scn
+Did not convert PackedScene resource res://.import/highland_small_rock_1.glb-c57be8be21024f57283e7908e8c88523.scn
+Did not convert Mesh resource res://.import/1.obj-38ff87af45e792f2cd735021180a4a7e.mesh
+Did not convert Mesh resource res://.import/2.obj-72e742ac8afee0bfde2d3b545f688ea7.mesh
+Did not convert Mesh resource res://.import/3.obj-c7329afb088845c975f07f4771bd3d5e.mesh
+Did not convert Mesh resource res://.import/4.obj-c6a7291dd84413172bd102240fe42382.mesh
+Did not convert Mesh resource res://.import/5.obj-fbf99741d63b77cb4e0558c9c18713dc.mesh
+Did not convert Mesh resource res://.import/6.obj-04ec84ad29a92624495d3972a6c66de3.mesh
+Did not convert Mesh resource res://.import/7.obj-3c76d9172bc1938348516a097080c399.mesh
+Did not convert PackedScene resource res://.import/ice_island_1.glb-acee52112b82576b8966b42a33e08556.scn
+Did not convert PackedScene resource res://.import/ice_island_ctf.glb-847a5f570a4e9d738f5a93c4e4288180.scn
+Did not convert PackedScene resource res://.import/ice_island_ffa.glb-0cacea2040bb113eb87622ff8d2ff500.scn
+Did not convert PackedScene resource res://.import/island_shaped_1.glb-3666071c384b902f0412b2e00d6cf0cd.scn
+Did not convert PackedScene resource res://.import/island_shaped_2.glb-7cfa594abb471297ac7497afc371139f.scn
+Did not convert PackedScene resource res://.import/island_shaped_3.glb-07af661d2d7a4c0bb4df1a63ffb4c75b.scn
+Did not convert PackedScene resource res://.import/lava_large_ctf.glb-dbeb70f8afe6804106df6b81afef83d7.scn
+Did not convert PackedScene resource res://.import/lava_large_ffa.glb-3bd82c4c1a71ad1e322cf70a5c51fe84.scn
+Did not convert PackedScene resource res://.import/lava_small_2_ffa.glb-eb12a5ef001804ddb99ecf18ea965859.scn
+Did not convert PackedScene resource res://.import/lava_small_ffa.glb-2942de08c8eab305d622e4df2db72f81.scn
+Did not convert Mesh resource res://.import/rocky_map.obj-ef19969a7953aa7877255a58915d8f9e.mesh
+Did not convert PackedScene resource res://.import/tropic_island_tiny.glb-453082f073f14dec561fc7c61793db13.scn
+Did not convert PackedScene resource res://.import/water_rocks.glb-f258bcf4179c382cd6933ab572655914.scn
+Did not convert PackedScene resource res://.import/coconuts_1.glb-81ffcee228a82d5a31af927b99064957.scn
+Did not convert Mesh resource res://.import/dojo.obj-8d9b8871d0e3b05ff5bc690cbd016c37.mesh
+Did not convert Mesh resource res://.import/pine_tree.obj-5a1bdb975231914f6a5b4c18512a7c82.mesh
+Did not convert Mesh resource res://.import/rock_test.obj-af8abd6bc16608ac0ac25bb587dcff88.mesh
+Did not convert PackedScene resource res://.import/small_pebbles_1.glb-443ad3e9216347304ab83137e136898c.scn
+Did not convert PackedScene resource res://.import/small_pebbles_2.glb-83d34937539df73278efe318f9466c29.scn
+Did not convert PackedScene resource res://.import/small_pebbles_3.glb-bb64127937e62f96dab99ffdeea5a468.scn
+Did not convert Mesh resource res://.import/snow_rock_1.obj-470ccd7e50017e6eb180e7bf2c18e1ab.mesh
+Did not convert Mesh resource res://.import/snow_rock_2.obj-91588207a19b452d460bef86cbdc80e4.mesh
+Did not convert PackedScene resource res://.import/grass_spot_5.glb-8b3705ff99c12d93cb06c8dd1ad75578.scn
+Did not convert PackedScene resource res://.import/beam_mesh_adjustable.glb-4520de4845436b9440023cfbcce8310e.scn
+Did not convert PackedScene resource res://.import/beam_vfx_beam.glb-4ca6003788e4557a0a0fb28e9c98e8e6.scn
+Did not convert PackedScene resource res://.import/beam_vfx_inner_beam.glb-39ca0cac3c06955fed3e457c58581089.scn
+Did not convert PackedScene resource res://.import/beam_vfx_ring.glb-29fad6c36175ea57266d14b34324400d.scn
+Did not convert PackedScene resource res://.import/beam_vfx_small_ring.glb-c2bd7240131d86361de57dc809dbbf42.scn
+Did not convert Mesh resource res://.import/dash_beam_hit_particle.obj-f49c2f45906f88975c33dff59f822a95.mesh
+Did not convert PackedScene resource res://.import/explosion_mesh.glb-fa3dfba6ae3134391ee776bfbb5013f2.scn
+Did not convert Mesh resource res://.import/fishard_fire_mesh.obj-b8cb6e3118221f6def7c5e6a1123f215.mesh
+Did not convert PackedScene resource res://.import/grab_vfx.glb-624c504c8166a814cc1310379953cc00.scn
+Did not convert PackedScene resource res://.import/grass_quad.glb-f5ea03d3fdcc6884911ce8429d4ddad9.scn
+Did not convert PackedScene resource res://.import/heal_vfx_ground.glb-f2662bb1f59bc1c4ca273ee4cf48992c.scn
+Did not convert PackedScene resource res://.import/heal_vfx_perimiter.glb-9d12bc01ee37ebb2de578ce68ac48401.scn
+Did not convert Mesh resource res://.import/push_mesh.obj-489441671066a420ced2fc61aff1dd83.mesh
+Did not convert PackedScene resource res://.import/totem.glb-60eea9da2d29c467c1b7e444aff594b7.scn
+Did not convert PackedScene resource res://.import/totem_2.glb-4e5324c72b51f0abdab9f62d9bd0b902.scn
+Did not convert PackedScene resource res://.import/beehive.glb-5e1967ed6dd42a0728d8089542a69664.scn
+Did not convert PackedScene resource res://.import/big_rock.glb-f712e1b508f78e728e21e67d3925bb8e.scn
+Did not convert PackedScene resource res://.import/big_rock_2.glb-63a6b06cb12a899bf44e1845366b0835.scn
+Did not convert Mesh resource res://.import/bones.obj-fa211bfc51d3522665437219010f8440.mesh
+Did not convert PackedScene resource res://.import/bridge.glb-2d0c7a4494930653fc604b36860ce925.scn
+Did not convert Mesh resource res://.import/burnt_tree_1.obj-93ca015893f0ee801f7ef52368548c48.mesh
+Did not convert PackedScene resource res://.import/crab.glb-cc720506986090a7d3abc9285a0286ec.scn
+Did not convert PackedScene resource res://.import/dead_fish_bone.glb-720fd8aed711d17561a2994f5d77689d.scn
+Did not convert PackedScene resource res://.import/dead_tree.glb-7c82409679850b463fcad5dbd3bd7058.scn
+Did not convert PackedScene resource res://.import/fireblast_shape.glb-c8729d2005df2e3101b6a209051c7b67.scn
+Did not convert PackedScene resource res://.import/fish_wizard.glb-0d6b4b5b827d1159c3b1879ce83a54f3.scn
+Did not convert PackedScene resource res://.import/fish_wizard_in_half.glb-57b9171f29d747754d46778617005524.scn
+Did not convert Mesh resource res://.import/football_ball_OBJ.obj-f26112eaf508e397c4ead7a864410681.mesh
+Did not convert Mesh resource res://.import/golden_gooey_god.obj-6f52f1df6b06cbbb914a18cfb095d960.mesh
+Did not convert PackedScene resource res://.import/hollow_cone.glb-a55d6adc7a43d037bd9664fd03d93d82.scn
+Did not convert PackedScene resource res://.import/hollow_cylinder.glb-d32d24a12280f24717c4ade92eec3089.scn
+Did not convert PackedScene resource res://.import/ice_cube.glb-f46f07f5acd95683121b67a2f48f89f6.scn
+Did not convert Mesh resource res://.import/ice_rock_1.obj-d081234302f9bb095cf204a7b8d1d94f.mesh
+Did not convert Mesh resource res://.import/ice_rock_2.obj-aa21f5912c57e482d8a07b21dcb4ceae.mesh
+Did not convert Mesh resource res://.import/ice_rock_3.obj-adb5579a6b70c4f995382e6c370e25ab.mesh
+Did not convert PackedScene resource res://.import/island_big.glb-955ccb80e0e1c2ddc355e99f2fe468c0.scn
+Did not convert PackedScene resource res://.import/island_medium.glb-50bd9d45c42f94c243fc6626377bfdc8.scn
+Did not convert PackedScene resource res://.import/island_small.glb-b98905fc87b57c3bab6a1ed75f8bbbd9.scn
+Did not convert Mesh resource res://.import/large_tropical_bridge.obj-3730ce7210580405fbccff8a3ab22288.mesh
+Did not convert Mesh resource res://.import/large_tropical_bridge_whole.obj-be7cc5f7689680b3ce320374fc1e1293.mesh
+Did not convert PackedScene resource res://.import/lava 2.glb-b40c1f0b6b95dea5ac3d2a7373e93c07.scn
+Did not convert PackedScene resource res://.import/lava_crater.glb-09179ed9908ec4e65dd1e63b0c14aac8.scn
+Did not convert PackedScene resource res://.import/leaf_tree.glb-df5bf8f1093861c1fed944c9d0bbd1a0.scn
+Did not convert PackedScene resource res://.import/meteor_impact.glb-e4f4a4dc996f6f514ec8192bb8d6e4c7.scn
+Did not convert PackedScene resource res://.import/palm_tree.glb-53dbc8e13e7761aecf7418a3fd8e3bbb.scn
+Did not convert PackedScene resource res://.import/particle_torus.glb-388eddd166197da17c3923fe46dcccfe.scn
+Did not convert PackedScene resource res://.import/reflect_wall.glb-07f0c7df3f9ecba3c53d0fb3d9f4aab1.scn
+Did not convert PackedScene resource res://.import/rock_dash_effect_mesh.glb-afe4c23de53dc6a381ecfb840ba743b4.scn
+Did not convert PackedScene resource res://.import/small_pebbles_1.glb-832d53a905713a4a896177b0f2949869.scn
+Did not convert Mesh resource res://.import/smaller_tropical_bridge.obj-074d9e6d34f2871bc7336cd7bc981a24.mesh
+Did not convert PackedScene resource res://.import/tree_leaf_test.glb-b7a0d253bc163c57233f581c584647c8.scn
+Did not convert Mesh resource res://.import/tropical_bridge.obj-afaabbb57d3e8c4e69856a973ac557c4.mesh
+Did not convert Mesh resource res://.import/tropical_bridge_whole.obj-9c3b8cf94beee254e1b559a804214a2b.mesh
+Did not convert PackedScene resource res://.import/waterfall_cliff.glb-7f5ed60de29af42a3e5047290537cdb5.scn
+Did not convert Mesh resource res://.import/withered_bush.obj-b5b162c1fe34b9c62e1adc4e5cce7f8b.mesh
+Did not rewrite import metadata for res://Assets/Textures/ShaderResources/swiss_cheese_noise.tga
+Saved project config project.godot.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     134
+Failed scripts:                         0
+Imported resources for export session:  1550
+Successfully converted:                 256
+Lossy:                                  28
+Rewrote metadata:                       0
+Non-importable conversions:             1
+Not converted:                          123
+Failed conversions:                     0
+-------------
+
+
+The following files were converted from an import that was stored lossy.
+You may lose fidelity when re-importing these files upon loading the project.
+res://.import/small_arrow_down.png-5c7fea0355e277b3417318199b3adbe4.stex to res://Assets/Images/UI/MainMenu/small_arrow_down.png
+res://.import/blood_puddle.png-a3a2908ed7092e23ef1652a43c2e74e0.s3tc.stex to res://Assets/Textures/Particle/blood_puddle.png
+res://.import/blood_puddle2.png-49d8e0eb9f7facff60889e1bfad78a62.s3tc.stex to res://Assets/Textures/Particle/blood_puddle2.png
+res://.import/bone_particle.png-f9dff05431911b8e13d63168ab3e7df2.s3tc.stex to res://Assets/Textures/Particle/bone_particle.png
+res://.import/circle.png-56d380d2a00b9e7ad1d4758f7176582f.s3tc.stex to res://Assets/Textures/Particle/circle.png
+res://.import/dirt_particle_texture.png-8f5e8dbdd2ffd4830ba9a64c72af41de.s3tc.stex to res://Assets/Textures/Particle/dirt_particle_texture.png
+res://.import/grass_sprites.png-2f4eff5842bfac0ae57d9c90868836e5.s3tc.stex to res://Assets/Textures/Particle/grass_sprites.png
+res://.import/heal_plus.png-3c261cff9260095c7a1ed3c64e6f51ae.s3tc.stex to res://Assets/Textures/Particle/heal_plus.png
+res://.import/ice_muzzle_shape.png-299e9104b498a197ec58392e27e6410f.s3tc.stex to res://Assets/Textures/Particle/ice_muzzle_shape.png
+res://.import/leaf_texture.png-a3ec36299f76b21962ecd0ec4b75c0c2.s3tc.stex to res://Assets/Textures/Particle/leaf_texture.png
+res://.import/meteor_cracks_v2.png-3af12de4b9a65b1703a66920406a88e2.s3tc.stex to res://Assets/Textures/Particle/meteor_cracks_v2.png
+res://.import/pebbles_particle.png-c651d4c5b1ab51c63da30c070dbdca3c.s3tc.stex to res://Assets/Textures/Particle/pebbles_particle.png
+res://.import/shard_particle.png-07a605406c5fd8f208c210605d1482a6.s3tc.stex to res://Assets/Textures/Particle/shard_particle.png
+res://.import/smoke_particle.png-b994819811a88a119b40c01eb9058030.s3tc.stex to res://Assets/Textures/Particle/smoke_particle.png
+res://.import/spike.png-fd352c34abf418afa3f2496aee544c2c.s3tc.stex to res://Assets/Textures/Particle/spike.png
+res://.import/splash_particle.png-0320b81ef0e039539637ecbac9eef81e.s3tc.stex to res://Assets/Textures/Particle/splash_particle.png
+res://.import/stalacmite.png-232d848be17572377bd7bc60a2ded30d.s3tc.stex to res://Assets/Textures/Particle/stalacmite.png
+res://.import/star_particle.png-0078cfd11d35504663d7536a9e3256ef.s3tc.stex to res://Assets/Textures/Particle/star_particle.png
+res://.import/wobbly_smoke_particle.png-a89f1c4643bb2065e3be5d17010ac863.s3tc.stex to res://Assets/Textures/Particle/wobbly_smoke_particle.png
+res://.import/lava_texture_2.png-04d6281493b8afea696f56c0be920d84.s3tc.stex to res://Assets/Textures/ShaderResources/lava_texture_2.png
+res://.import/regular_noise.png-1e63eaac2b300ccca908482a1dda8ff8.s3tc.stex to res://Assets/Textures/ShaderResources/regular_noise.png
+res://.import/smooth_corner_rect.png-65c43be9ab77f5f891e848479dedd05a.s3tc.stex to res://Assets/Textures/ShaderResources/smooth_corner_rect.png
+res://.import/spiky_texture.png-fd48c4f019829158456a0bcfca62a5a6.s3tc.stex to res://Assets/Textures/ShaderResources/spiky_texture.png
+res://.import/swiss_cheese_noise.tga-0220365a2235c908211d0447b480877e.stex to res://.assets/Assets/Textures/ShaderResources/swiss_cheese_noise.png
+res://.import/leaf_texture.png-9e4659e3056c9daa228ef9466b0b3ccc.s3tc.stex to res://Assets/Textures/Sprites/leaf_texture.png
+res://.import/pebbles.png-da63244cdb11618b4c3366a1387eebef.s3tc.stex to res://Assets/Textures/Sprites/pebbles.png
+res://.import/shadow.png-94eaeff4d120d40fa079b36fa66aee7e.s3tc.stex to res://Assets/Textures/Sprites/shadow.png
+res://.import/grass.png-bd8693609e2236b94b5eb6d9741bc1d7.s3tc.stex to res://Assets/Textures/grass.png
+------
+
+The following files were converted and saved to a non-original path, but did not have their import data rewritten.
+These files will not be re-imported when loading the project.
+res://.import/swiss_cheese_noise.tga-0220365a2235c908211d0447b480877e.stex to res://.assets/Assets/Textures/ShaderResources/swiss_cheese_noise.png
+------
+
+The following files were not converted because support has not been implemented yet:
+res://.import/angry_brows.obj-28f0c753df689efda8dd49196b56c16c.mesh
+res://.import/beanie.obj-b594ebd2f7aeb3ed71e7d992a6ea6170.mesh
+res://.import/canon.obj-a4f541ba7c1ff98315cb5ed0421fcd1b.mesh
+res://.import/colored_cap_hat.obj-0813f7fed98fd63aa457e8aef5c564ec.mesh
+res://.import/cool_cap_hat.obj-7cf6cd3aa116bfa7895e5352a4a9b58d.mesh
+res://.import/disguise_mask.obj-842b5c84c095590eeb1ccf6f3a9d0c75.mesh
+res://.import/engineering_goggles.obj-0b1fd309ea6b2d500177acf32e698431.mesh
+res://.import/eye_hat.obj-785eb71e6cee42db5421c24148ebc023.mesh
+res://.import/fedora.obj-fd932a107bfeab820c0dba69b28324d2.mesh
+res://.import/fez_hat.obj-4a40b21e46caa8e572c025c569f8beb5.mesh
+res://.import/frog_hat.obj-684b43fc888090dc831b1ed144d2a0d3.mesh
+res://.import/goat_horns.obj-e0d3e457ab674c12abd05eba7f086b31.mesh
+res://.import/halo.obj-27e208786dca1c6657ae3ecbe74991fd.mesh
+res://.import/heart_bobbers.obj-5902e6790cf6bc88414fdceeb1d1f2a5.mesh
+res://.import/knight_helmet.obj-1f717e80598f87d73c28b005b4eea17e.mesh
+res://.import/mohawk.obj-83d692d536c4807a56f972ed6a129675.mesh
+res://.import/pirate_hat.obj-271b18aecf591008cd201b0f2a677551.mesh
+res://.import/plague_mask.obj-4fc5e735ddb3c27085f9cb99f618a515.mesh
+res://.import/plague_mask_and_hat.obj-b82ce720429f2df7ff028366f6f668e4.mesh
+res://.import/rhino_horn.obj-7af972aeb5a50e3cfec0a995bf085949.mesh
+res://.import/safari_hat.obj-d5c99d5b96009aa7681962599371b4a3.mesh
+res://.import/scuba_hat.obj-fbcef1aa1418903de4e550cb7afbb7d1.mesh
+res://.import/spiky_horns.obj-13fbeb39cfbda6bfa686e571ef990d1d.mesh
+res://.import/sunglasses.obj-0763d2d94cd7215aad3c7914ddc663bd.mesh
+res://.import/top_hat.obj-a40145faaf83525f41b6e7e27a74250c.mesh
+res://.import/viking_hat.obj-253c6f324d2d1074c190ba299b48061d.mesh
+res://.import/winter_hat.obj-dcd428a8a90fe18389d645ec68387a11.mesh
+res://.import/grass_spot_1.glb-cd0b7bd1b406aabf7030bfbae08c4368.scn
+res://.import/grass_spot_2.glb-5cb26de0654780097fb17fcbfe048768.scn
+res://.import/grass_spot_3.glb-df2cca7b11acc3cacc7619343eb6a630.scn
+res://.import/grass_spot_4.glb-877b805099c811a947647c625a6f007a.scn
+res://.import/grass_spot_test.glb-9f48206673c78dceeaa75b72c476e416.scn
+res://.import/highland_map_ground.glb-0c6d94595702684953ac890624757c5b.scn
+res://.import/highland_rock_1.glb-81a5a425aac79dfe4bcea3d6de12b619.scn
+res://.import/highland_rock_2.glb-d06f5300844267b8949d4856cf2da747.scn
+res://.import/highland_rock_3.glb-19a3803c52f9541ac0a4b56bef719101.scn
+res://.import/highland_rock_4.glb-485fcbc7098d86d11abd2bbcf7835e3c.scn
+res://.import/highland_small_rock_1.glb-c57be8be21024f57283e7908e8c88523.scn
+res://.import/1.obj-38ff87af45e792f2cd735021180a4a7e.mesh
+res://.import/2.obj-72e742ac8afee0bfde2d3b545f688ea7.mesh
+res://.import/3.obj-c7329afb088845c975f07f4771bd3d5e.mesh
+res://.import/4.obj-c6a7291dd84413172bd102240fe42382.mesh
+res://.import/5.obj-fbf99741d63b77cb4e0558c9c18713dc.mesh
+res://.import/6.obj-04ec84ad29a92624495d3972a6c66de3.mesh
+res://.import/7.obj-3c76d9172bc1938348516a097080c399.mesh
+res://.import/ice_island_1.glb-acee52112b82576b8966b42a33e08556.scn
+res://.import/ice_island_ctf.glb-847a5f570a4e9d738f5a93c4e4288180.scn
+res://.import/ice_island_ffa.glb-0cacea2040bb113eb87622ff8d2ff500.scn
+res://.import/island_shaped_1.glb-3666071c384b902f0412b2e00d6cf0cd.scn
+res://.import/island_shaped_2.glb-7cfa594abb471297ac7497afc371139f.scn
+res://.import/island_shaped_3.glb-07af661d2d7a4c0bb4df1a63ffb4c75b.scn
+res://.import/lava_large_ctf.glb-dbeb70f8afe6804106df6b81afef83d7.scn
+res://.import/lava_large_ffa.glb-3bd82c4c1a71ad1e322cf70a5c51fe84.scn
+res://.import/lava_small_2_ffa.glb-eb12a5ef001804ddb99ecf18ea965859.scn
+res://.import/lava_small_ffa.glb-2942de08c8eab305d622e4df2db72f81.scn
+res://.import/rocky_map.obj-ef19969a7953aa7877255a58915d8f9e.mesh
+res://.import/tropic_island_tiny.glb-453082f073f14dec561fc7c61793db13.scn
+res://.import/water_rocks.glb-f258bcf4179c382cd6933ab572655914.scn
+res://.import/coconuts_1.glb-81ffcee228a82d5a31af927b99064957.scn
+res://.import/dojo.obj-8d9b8871d0e3b05ff5bc690cbd016c37.mesh
+res://.import/pine_tree.obj-5a1bdb975231914f6a5b4c18512a7c82.mesh
+res://.import/rock_test.obj-af8abd6bc16608ac0ac25bb587dcff88.mesh
+res://.import/small_pebbles_1.glb-443ad3e9216347304ab83137e136898c.scn
+res://.import/small_pebbles_2.glb-83d34937539df73278efe318f9466c29.scn
+res://.import/small_pebbles_3.glb-bb64127937e62f96dab99ffdeea5a468.scn
+res://.import/snow_rock_1.obj-470ccd7e50017e6eb180e7bf2c18e1ab.mesh
+res://.import/snow_rock_2.obj-91588207a19b452d460bef86cbdc80e4.mesh
+res://.import/grass_spot_5.glb-8b3705ff99c12d93cb06c8dd1ad75578.scn
+res://.import/beam_mesh_adjustable.glb-4520de4845436b9440023cfbcce8310e.scn
+res://.import/beam_vfx_beam.glb-4ca6003788e4557a0a0fb28e9c98e8e6.scn
+res://.import/beam_vfx_inner_beam.glb-39ca0cac3c06955fed3e457c58581089.scn
+res://.import/beam_vfx_ring.glb-29fad6c36175ea57266d14b34324400d.scn
+res://.import/beam_vfx_small_ring.glb-c2bd7240131d86361de57dc809dbbf42.scn
+res://.import/dash_beam_hit_particle.obj-f49c2f45906f88975c33dff59f822a95.mesh
+res://.import/explosion_mesh.glb-fa3dfba6ae3134391ee776bfbb5013f2.scn
+res://.import/fishard_fire_mesh.obj-b8cb6e3118221f6def7c5e6a1123f215.mesh
+res://.import/grab_vfx.glb-624c504c8166a814cc1310379953cc00.scn
+res://.import/grass_quad.glb-f5ea03d3fdcc6884911ce8429d4ddad9.scn
+res://.import/heal_vfx_ground.glb-f2662bb1f59bc1c4ca273ee4cf48992c.scn
+res://.import/heal_vfx_perimiter.glb-9d12bc01ee37ebb2de578ce68ac48401.scn
+res://.import/push_mesh.obj-489441671066a420ced2fc61aff1dd83.mesh
+res://.import/totem.glb-60eea9da2d29c467c1b7e444aff594b7.scn
+res://.import/totem_2.glb-4e5324c72b51f0abdab9f62d9bd0b902.scn
+res://.import/beehive.glb-5e1967ed6dd42a0728d8089542a69664.scn
+res://.import/big_rock.glb-f712e1b508f78e728e21e67d3925bb8e.scn
+res://.import/big_rock_2.glb-63a6b06cb12a899bf44e1845366b0835.scn
+res://.import/bones.obj-fa211bfc51d3522665437219010f8440.mesh
+res://.import/bridge.glb-2d0c7a4494930653fc604b36860ce925.scn
+res://.import/burnt_tree_1.obj-93ca015893f0ee801f7ef52368548c48.mesh
+res://.import/crab.glb-cc720506986090a7d3abc9285a0286ec.scn
+res://.import/dead_fish_bone.glb-720fd8aed711d17561a2994f5d77689d.scn
+res://.import/dead_tree.glb-7c82409679850b463fcad5dbd3bd7058.scn
+res://.import/fireblast_shape.glb-c8729d2005df2e3101b6a209051c7b67.scn
+res://.import/fish_wizard.glb-0d6b4b5b827d1159c3b1879ce83a54f3.scn
+res://.import/fish_wizard_in_half.glb-57b9171f29d747754d46778617005524.scn
+res://.import/football_ball_OBJ.obj-f26112eaf508e397c4ead7a864410681.mesh
+res://.import/golden_gooey_god.obj-6f52f1df6b06cbbb914a18cfb095d960.mesh
+res://.import/hollow_cone.glb-a55d6adc7a43d037bd9664fd03d93d82.scn
+res://.import/hollow_cylinder.glb-d32d24a12280f24717c4ade92eec3089.scn
+res://.import/ice_cube.glb-f46f07f5acd95683121b67a2f48f89f6.scn
+res://.import/ice_rock_1.obj-d081234302f9bb095cf204a7b8d1d94f.mesh
+res://.import/ice_rock_2.obj-aa21f5912c57e482d8a07b21dcb4ceae.mesh
+res://.import/ice_rock_3.obj-adb5579a6b70c4f995382e6c370e25ab.mesh
+res://.import/island_big.glb-955ccb80e0e1c2ddc355e99f2fe468c0.scn
+res://.import/island_medium.glb-50bd9d45c42f94c243fc6626377bfdc8.scn
+res://.import/island_small.glb-b98905fc87b57c3bab6a1ed75f8bbbd9.scn
+res://.import/large_tropical_bridge.obj-3730ce7210580405fbccff8a3ab22288.mesh
+res://.import/large_tropical_bridge_whole.obj-be7cc5f7689680b3ce320374fc1e1293.mesh
+res://.import/lava 2.glb-b40c1f0b6b95dea5ac3d2a7373e93c07.scn
+res://.import/lava_crater.glb-09179ed9908ec4e65dd1e63b0c14aac8.scn
+res://.import/leaf_tree.glb-df5bf8f1093861c1fed944c9d0bbd1a0.scn
+res://.import/meteor_impact.glb-e4f4a4dc996f6f514ec8192bb8d6e4c7.scn
+res://.import/palm_tree.glb-53dbc8e13e7761aecf7418a3fd8e3bbb.scn
+res://.import/particle_torus.glb-388eddd166197da17c3923fe46dcccfe.scn
+res://.import/reflect_wall.glb-07f0c7df3f9ecba3c53d0fb3d9f4aab1.scn
+res://.import/rock_dash_effect_mesh.glb-afe4c23de53dc6a381ecfb840ba743b4.scn
+res://.import/small_pebbles_1.glb-832d53a905713a4a896177b0f2949869.scn
+res://.import/smaller_tropical_bridge.obj-074d9e6d34f2871bc7336cd7bc981a24.mesh
+res://.import/tree_leaf_test.glb-b7a0d253bc163c57233f581c584647c8.scn
+res://.import/tropical_bridge.obj-afaabbb57d3e8c4e69856a973ac557c4.mesh
+res://.import/tropical_bridge_whole.obj-9c3b8cf94beee254e1b559a804214a2b.mesh
+res://.import/waterfall_cliff.glb-7f5ed60de29af42a3e5047290537cdb5.scn
+res://.import/withered_bush.obj-b5b162c1fe34b9c62e1adc4e5cce7f8b.mesh
+
+
+
+---------------------------------IMPORTANT NOTES----------------------------------
+
+The following resource types were detected in the project that conversion is not implemented for yet:
+Type: Mesh                	Format: obj
+Type: PackedScene         	Format: glb
+See Export Report to see which resources were not exported.
+You will still be able to edit the project in the editor regardless.
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 3.3.4 to edit the project.
+Note: the project may be using a custom version of Godot. Detection for this has not been implemented yet.
+If you find that you have many non-import errors upon opening the project 
+(i.e. scripts or shaders have many errors), use the original game's binary as the export template.
+
+*******************************************************************************
+
